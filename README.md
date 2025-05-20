@@ -4,6 +4,13 @@
 
 ---
 
+## 🚧 Informações Importantes
+- Flap de giro com redutor - Velo. 2500
+- Flap de giro sem redutor - Velo. 800
+- OBS: Independentemente de possuir ângulo ou não, essas são as velocidades.
+
+---
+
 ## 🚀 Funcionalidades
 
 - ✅ Abertura suave e giro controlada do flap
