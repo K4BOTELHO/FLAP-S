@@ -7,6 +7,7 @@
 ## 🚧 Informações Importantes
 - Flap de giro com redutor - Velo. 2500
 - Flap de giro sem redutor - Velo. 800
+- Driver regulado com 1VDC
 - OBS: Independentemente de possuir ângulo ou não, essas são as velocidades.
 
 ---
